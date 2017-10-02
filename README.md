@@ -2,7 +2,7 @@
 
 Rules regarding the making of tea at Seed
 
-## General Rules
+## General Rules
 
 The round is decided by a game (or multiple) of Rock Paper Scissors (RPS).
 
@@ -21,6 +21,6 @@ The round is decided by a game (or multiple) of Rock Paper Scissors (RPS).
     
  3. The right to rechallenge is lose if the shame rule is in effect.
 
-## Shame Rule
+## Shame Rule
 
 During a challenge, if a player loses 2 rounds in a row at the start of the game one is considered shamed and therefore must immediately make tea and loses the right to rechallenge.
