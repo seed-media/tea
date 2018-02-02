@@ -25,6 +25,3 @@ The round is decided by a game (or multiple) of Rock Paper Scissors (RPS).
 
 During a challenge, if a player loses 2 rounds in a row at the start of the game one is considered shamed and therefore must immediately make tea and loses the right to rechallenge.
 
-## Last day rule
-
-On an employees last day at Seed, He or She must make tea throughout the duration of the day. Tea must be made within 20 minutes of any request from another employee.
